@@ -1,12 +1,12 @@
 # Personal Ethical Hacking Learning Resources - <em>in Progress</em>
 
-https://github.com/bugcrowd/bugcrowd_university
-https://www.freecodecamp.org/
-https://bugbountyhunter.com
+-https://github.com/bugcrowd/bugcrowd_university
+-https://www.freecodecamp.org/
+-https://bugbountyhunter.com
 
-https://www.hacker101.com/<br>
-https://academy.hackthebox.eu/<br>
-https://tryhackme.com/<br><br>
+-https://www.hacker101.com/<br>
+-https://academy.hackthebox.eu/<br>
+-https://tryhackme.com/<br><br>
 
 ## Books/ Reference Materials
 
