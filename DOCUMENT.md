@@ -17,11 +17,11 @@ Black Hat Python: Python Programming for Hackers and Pentesters - <em>https://am
 Red Team Field Manual - <em>https://amzn.to/39jA9ys</em><br>
 Blue Team Field Manual - <em>https://amzn.to/3q4CTWf</em><br><br>
 
-<h5>Kevin Mitnick Books</h5><br>
+<h5>Kevin Mitnick Books</h5>
 Ghost in the Wires - <em>https://amzn.to/37i1PkK</em><br>
 The Art of Invisibility - <em>https://amzn.to/3l6GjUV</em><br>
 The Art of Intrusion  - <em>https://amzn.to/2JltoAY</em><br>
-The Art of Deception  - <em>https://amzn.to/3fE5yfV</em><br>
+The Art of Deception  - <em>https://amzn.to/3fE5yfV</em><br><br>
 
 <h4>Online Bootcamp/Courses</h4>
 <hr><br>
