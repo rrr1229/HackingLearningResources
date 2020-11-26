@@ -10,8 +10,8 @@
 
 ## Books/ Reference Materials
 
-Hacking: The Art of Exploitation, 2nd Edition - <em>https://amzn.to/3fDIPR8</em><br>
-The Web Application Hacker's Handbook - <em>https://amzn.to/33gjxnp</em><br>
+Hacking: The Art of Exploitation, 2nd Edition - <em>https://amzn.to/3fDIPR8</em>
+The Web Application Hacker's Handbook - <em>https://amzn.to/33gjxnp</em>
 Black Hat Python: Python Programming for Hackers and Pentesters - <em>https://amzn.to/39npuCL</em><br>
 Red Team Field Manual - <em>https://amzn.to/39jA9ys</em><br>
 Blue Team Field Manual - <em>https://amzn.to/3q4CTWf</em><br><br>
