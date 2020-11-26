@@ -1,5 +1,5 @@
 <h2>Personal Ethical Hacking Learning Resources - <em>in Progress</em></h2>
-<hr>
+
 
 https://github.com/bugcrowd/bugcrowd_university<br>
 https://bugbountyhunter.com<br><br>
